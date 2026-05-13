@@ -38,7 +38,7 @@ This project analyzes Employee/HR data using PowerBI to uncover ratings insights
 - Standardize bonus allcation across regions
 - Continue using HR Analytics for workforce decision-making
  ## Dashboard Screenshot
- [HR Dashboard](Dashboard.png)
+ ![HR Dashboard](Dashboard.png)
  
  
 
